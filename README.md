@@ -211,6 +211,16 @@ The E-Commerce Management System is a relational database project designed to ef
 - • Ensured data consistency and accuracy.
 
 ---
+## 🛠️ Technologies Used
+
+- **Database:** Oracle SQL
+- **Language:** SQL
+- **Concepts:** DBMS, ER Model, Relational Database
+- **SQL Operations:** DDL, DML, DQL
+- **Advanced SQL:** Joins, Aggregate Functions, Views
+- **Constraints:** Primary Key, Foreign Key, NOT NULL, UNIQUE, CHECK, DEFAULT
+
+---
 
 ## 📊 Project Outputs
 
